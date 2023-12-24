@@ -1,0 +1,31 @@
+{
+  "id": "ChIJ6zjVBYS4woARoaYdxb5SL-Y",
+  "nationalPhoneNumber": "(213) 389-6138",
+  "formattedAddress": "755 S Hobart Blvd, Los Angeles, CA 90005, USA",
+  "rating": 4.1,
+  "googleMapsUri": "https://maps.google.com/?cid=16586566931933144737",
+  "websiteUri": "https://www.heyricafe.net/",
+  "userRatingCount": 637,
+  "displayName": { "text": "Heyri Cafe", "languageCode": "en" },
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ]
+  },
+  "editorialSummary": {
+    "text": "Coffee house & Korean dessert cafe in a historical home with a plant-filled patio.",
+    "languageCode": "en"
+  },
+  "outdoorSeating": true,
+  "parkingOptions": {
+    "paidParkingLot": true,
+    "freeStreetParking": true,
+    "valetParking": true
+  }
+}

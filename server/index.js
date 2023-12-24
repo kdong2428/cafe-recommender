@@ -1,5 +1,5 @@
 const express = require("express");
-const fs = require('fs');
+const fs = require("fs");
 
 const PORT = process.env.PORT || 3001;
 
@@ -9,7 +9,6 @@ const app = express();
 app.use(express.json());
 
 app.post("/api", (req, res) => {
-
   console.log(req);
   console.log("data: " + req.body.data);
 
@@ -18,9 +17,16 @@ app.post("/api", (req, res) => {
 
   console.log("name: " + name);
 
-  fs.writeFileSync("data/"+name+".json", req.body.data);
+  fs.writeFileSync("data/" + name + ".json", req.body.data);
 
-  res.json({ success: true, message: 'Place details saved successfully.' });
+  res.json({ success: true, message: "Place details saved successfully." });
+});
+
+app.post("/getCafeRecs", (req, res) => {
+  console.log(req);
+  console.log("data: " + req.body.userInput);
+
+  res.json({ message: "Got User Input" });
 });
 
 app.listen(PORT, () => {

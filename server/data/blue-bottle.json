@@ -1,0 +1,25 @@
+{
+  "name": "Blue Bottle Coffee",
+  "id": "blue-bottle",
+  "nationalPhoneNumber": "(510) 653-3394",
+  "formattedAddress": "555 S Alexandria Ave, Los Angeles, CA 90020, USA",
+  "rating": 4.4,
+  "googleMapsUri": "https://maps.google.com/?cid=12493416197720706285",
+  "websiteUri": "https://bluebottlecoffee.com/",
+  "userRatingCount": 104,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: Closed",
+      "Tuesday: 6:30 AM – 5:00 PM",
+      "Wednesday: 6:30 AM – 5:00 PM",
+      "Thursday: 6:30 AM – 5:00 PM",
+      "Friday: 6:30 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ]
+  },
+  "editorialSummary": {
+    "text": "Trendy cafe chain offering upscale coffee drinks & pastries, plus beans & brewing equipment."
+  },
+  "outdoorSeating": true
+}

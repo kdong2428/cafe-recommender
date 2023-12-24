@@ -1,0 +1,30 @@
+{
+  "name": "Spot Coffee & More",
+  "id": "spot-coffee",
+  "nationalPhoneNumber": "(213) 332-5913",
+  "formattedAddress": "3324 W 6th St, Los Angeles, CA 90020, USA",
+  "rating": 4.1,
+  "googleMapsUri": "https://maps.google.com/?cid=9588789063132819908",
+  "websiteUri": "https://www.cafespotla.com/",
+  "userRatingCount": 210,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 12:00 PM – 2:00 AM",
+      "Tuesday: 12:00 PM – 2:00 AM",
+      "Wednesday: 12:00 PM – 2:00 AM",
+      "Thursday: 12:00 PM – 2:00 AM",
+      "Friday: 12:00 PM – 2:00 AM",
+      "Saturday: 12:00 PM – 2:00 AM",
+      "Sunday: 12:00 PM – 2:00 AM"
+    ]
+  },
+  "outdoorSeating": true,
+  "parkingOptions": {
+    "paidParkingLot": true,
+    "paidStreetParking": true,
+    "valetParking": true
+  },
+  "editorialSummary": {
+    "text": "music a little bit of a club vibe without being overbearing. good dessert."
+  }
+}

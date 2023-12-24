@@ -1,0 +1,24 @@
+{
+  "name": "Awesome Coffee",
+  "id": "awesome-coffee",
+  "nationalPhoneNumber": "(213) 674-7558",
+  "formattedAddress": "3959 Wilshire Blvd a21, Los Angeles, CA 90010, USA",
+  "rating": 4.2,
+  "googleMapsUri": "https://maps.google.com/?cid=9964901238490932706",
+  "websiteUri": "http://www.theawesomecoffeeshop.com/",
+  "userRatingCount": 286,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 2:00 AM",
+      "Tuesday: 8:00 AM – 2:00 AM",
+      "Wednesday: 8:00 AM – 2:00 AM",
+      "Thursday: 8:00 AM – 2:00 AM",
+      "Friday: 8:00 AM – 2:00 AM",
+      "Saturday: 9:00 AM – 2:00 AM",
+      "Sunday: 9:00 AM – 2:00 AM"
+    ]
+  },
+  "editorialSummary": {
+    "text": "Minimalist coffeehouse specializing in coffee with impressive milk designs plus other cafe treats."
+  }
+}

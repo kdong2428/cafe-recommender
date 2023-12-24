@@ -1,0 +1,25 @@
+{
+  "name": "TPO Coffee",
+  "id": "tpo-coffee",
+  "nationalPhoneNumber": "(213) 322-2356",
+  "formattedAddress": "537 S Western Ave, Los Angeles, CA 90020, USA",
+  "rating": 4,
+  "googleMapsUri": "https://maps.google.com/?cid=4640258991298039773",
+  "userRatingCount": 83,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 10:00 AM – 2:00 AM",
+      "Tuesday: 10:00 AM – 2:00 AM",
+      "Wednesday: 10:00 AM – 2:00 AM",
+      "Thursday: 10:00 AM – 4:00 AM",
+      "Friday: 10:00 AM – 4:00 AM",
+      "Saturday: 10:00 AM – 4:00 AM",
+      "Sunday: 10:00 AM – 2:00 AM"
+    ]
+  },
+  "outdoorSeating": false,
+  "parkingOptions": { "valetParking": true },
+  "editorialSummary": {
+    "text": "a delightful spot for late-night coffee and desserts. loud music."
+  }
+}

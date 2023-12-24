@@ -1,0 +1,25 @@
+{
+  "name": "MEMORYLOOK COFFEE & FLAGSHIP STORE",
+  "id": "memorylook",
+  "formattedAddress": "2881 W Olympic Blvd, Los Angeles, CA 90006, USA",
+  "rating": 4.5,
+  "googleMapsUri": "https://maps.google.com/?cid=2426000391528517037",
+  "websiteUri": "https://memorylook.com/",
+  "userRatingCount": 272,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
+    ]
+  },
+  "outdoorSeating": true,
+  "parkingOptions": { "freeParkingLot": true },
+  "editorialSummary": {
+    "text": "The overall aesthetic is minimal chic, which is cute. Not good wifi."
+  }
+}

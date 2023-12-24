@@ -1,0 +1,24 @@
+{
+  "name": "About Time",
+  "id": "about-time",
+  "nationalPhoneNumber": "(213) 340-9070",
+  "formattedAddress": "3287 Wilshire Blvd B, Los Angeles, CA 90010, USA",
+  "rating": 4.2,
+  "googleMapsUri": "https://maps.google.com/?cid=16588725565158153541",
+  "userRatingCount": 41,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 1:00 AM",
+      "Tuesday: 8:00 AM – 1:00 AM",
+      "Wednesday: 8:00 AM – 1:00 AM",
+      "Thursday: 8:00 AM – 1:00 AM",
+      "Friday: 8:00 AM – 1:00 AM",
+      "Saturday: 8:00 AM – 1:00 AM",
+      "Sunday: 8:00 AM – 12:00 AM"
+    ]
+  },
+  "parkingOptions": { "freeParkingLot": true },
+  "editorialSummary": {
+    "text": "Delicious treats, creative drinks, and great ambiance for studying or chatting with friends."
+  }
+}

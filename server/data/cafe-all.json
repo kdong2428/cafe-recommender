@@ -1,0 +1,383 @@
+[
+  {
+    "name": "About Time",
+    "id": "about-time",
+    "nationalPhoneNumber": "(213) 340-9070",
+    "formattedAddress": "3287 Wilshire Blvd B, Los Angeles, CA 90010, USA",
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=16588725565158153541",
+    "userRatingCount": 41,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 1:00 AM",
+        "Tuesday: 8:00 AM – 1:00 AM",
+        "Wednesday: 8:00 AM – 1:00 AM",
+        "Thursday: 8:00 AM – 1:00 AM",
+        "Friday: 8:00 AM – 1:00 AM",
+        "Saturday: 8:00 AM – 1:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ]
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "editorialSummary": {
+      "text": "Delicious treats, creative drinks, and great ambiance for studying or chatting with friends."
+    }
+  },
+  {
+    "name": "Alchemist Coffee Project at The Pearl",
+    "id": "alchemist-coffee",
+    "nationalPhoneNumber": "(213) 315-5700",
+    "formattedAddress": "687 S Hobart Blvd, Los Angeles, CA 90005, USA",
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=5421323349998547545",
+    "userRatingCount": 182,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 7:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ]
+    },
+    "outdoorSeating": true,
+    "parkingOptions": {
+      "paidStreetParking": true
+    },
+    "editorialSummary": {
+      "text": "Sleek coffee-focused spot also offering baked goods & bulk beans out of a New Orleans-style cafe."
+    }
+  },
+  {
+    "name": "Awesome Coffee",
+    "id": "awesome-coffee",
+    "nationalPhoneNumber": "(213) 674-7558",
+    "formattedAddress": "3959 Wilshire Blvd a21, Los Angeles, CA 90010, USA",
+    "rating": 4.2,
+    "googleMapsUri": "https://maps.google.com/?cid=9964901238490932706",
+    "websiteUri": "http://www.theawesomecoffeeshop.com/",
+    "userRatingCount": 286,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 2:00 AM",
+        "Tuesday: 8:00 AM – 2:00 AM",
+        "Wednesday: 8:00 AM – 2:00 AM",
+        "Thursday: 8:00 AM – 2:00 AM",
+        "Friday: 8:00 AM – 2:00 AM",
+        "Saturday: 9:00 AM – 2:00 AM",
+        "Sunday: 9:00 AM – 2:00 AM"
+      ]
+    },
+    "editorialSummary": {
+      "text": "Minimalist coffeehouse specializing in coffee with impressive milk designs plus other cafe treats."
+    }
+  },
+  {
+    "name": "Blue Bottle Coffee",
+    "id": "blue-bottle",
+    "nationalPhoneNumber": "(510) 653-3394",
+    "formattedAddress": "555 S Alexandria Ave, Los Angeles, CA 90020, USA",
+    "rating": 4.4,
+    "googleMapsUri": "https://maps.google.com/?cid=12493416197720706285",
+    "websiteUri": "https://bluebottlecoffee.com/",
+    "userRatingCount": 104,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: Closed",
+        "Tuesday: 6:30 AM – 5:00 PM",
+        "Wednesday: 6:30 AM – 5:00 PM",
+        "Thursday: 6:30 AM – 5:00 PM",
+        "Friday: 6:30 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: 7:00 AM – 5:00 PM"
+      ]
+    },
+    "editorialSummary": {
+      "text": "Trendy cafe chain offering upscale coffee drinks & pastries, plus beans & brewing equipment."
+    },
+    "outdoorSeating": true
+  },
+  {
+    "name": "Cafe De Mama",
+    "id": "cafe-de-mama",
+    "nationalPhoneNumber": "(323) 795-0906",
+    "formattedAddress": "1102 S Western Ave, Los Angeles, CA 90006, USA",
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=17797679888739859827",
+    "websiteUri": "https://www.cafedemama.com/",
+    "userRatingCount": 198,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ]
+    },
+    "editorialSummary": {
+      "text": "Basic coffee shop with outdoor seating serving mochi & matcha lattes, plus classic java & croffles.",
+      "languageCode": "en"
+    },
+    "outdoorSeating": true,
+    "parkingOptions": {
+      "freeParkingLot": true
+    }
+  },
+  {
+    "name": "Cafe Loft",
+    "id": "cafe-loft",
+    "nationalPhoneNumber": "(213) 383-3006",
+    "formattedAddress": "3882 W 6th St, Los Angeles, CA 90020, USA",
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=11140502851640429629",
+    "userRatingCount": 340,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "editorialSummary": {
+      "text": "Coffee, tea, light fare & desserts are served up in a warm, artsy, lounge-like atmosphere."
+    },
+    "outdoorSeating": true,
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "paidStreetParking": true
+    }
+  },
+  {
+    "name": "Cafe Mak",
+    "id": "cafe-mak",
+    "nationalPhoneNumber": "(213) 252-9898",
+    "formattedAddress": "612 Shatto Pl, Los Angeles, CA 90005, USA",
+    "rating": 4.3,
+    "googleMapsUri": "https://maps.google.com/?cid=11781226813360577209",
+    "websiteUri": "https://cafemak.eat24hour.com/location",
+    "userRatingCount": 654,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ]
+    },
+    "editorialSummary": {
+      "text": "Roomy Korean cafe serving coffees, teas & desserts (like sweet potato cake) with late-night hours."
+    },
+    "outdoorSeating": true,
+    "parkingOptions": {
+      "freeParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": true
+    }
+  },
+  {
+    "name": "DAMO",
+    "id": "damo",
+    "nationalPhoneNumber": "(213) 277-1701",
+    "formattedAddress": "3510 W 8th St, Los Angeles, CA 90005, USA",
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=17369564684135374103",
+    "websiteUri": "https://instagram.com/damoteahousela?igshid=MzRlODBiNWFlZA==",
+    "userRatingCount": 86,
+    "displayName": {
+      "text": "DAMO",
+      "languageCode": "en"
+    },
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ]
+    },
+    "outdoorSeating": false,
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "editorialSummary": {
+      "text": "small and cute and clean aesthetic. not enough seats and plugs to do work in."
+    }
+  },
+  {
+    "name": "MEMORYLOOK COFFEE & FLAGSHIP STORE",
+    "id": "memorylook",
+    "formattedAddress": "2881 W Olympic Blvd, Los Angeles, CA 90006, USA",
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=2426000391528517037",
+    "websiteUri": "https://memorylook.com/",
+    "userRatingCount": 272,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ]
+    },
+    "outdoorSeating": true,
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "editorialSummary": {
+      "text": "The overall aesthetic is minimal chic, which is cute. Not good wifi."
+    }
+  },
+  {
+    "name": "nothing but coffee by ffee&Co",
+    "id": "nothing-but-coffee",
+    "nationalPhoneNumber": "(213) 375-7073",
+    "formattedAddress": "3952 Wilshire Blvd, Los Angeles, CA 90010, USA",
+    "rating": 4.6,
+    "googleMapsUri": "https://maps.google.com/?cid=4399448930006619190",
+    "websiteUri": "https://ffee2andco.wixsite.com/nothing-but-coffee",
+    "userRatingCount": 194,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ]
+    },
+    "outdoorSeating": true,
+    "editorialSummary": {
+      "text": "Good place to hangout but there is only 3 seats that are good for work/studying."
+    }
+  },
+  {
+    "name": "Sharp Specialty Coffee",
+    "id": "sharp",
+    "nationalPhoneNumber": "(213) 674-7644",
+    "formattedAddress": "3421 W 6th St, Los Angeles, CA 90020, USA",
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=6669521777815306984",
+    "userRatingCount": 205,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ]
+    },
+    "outdoorSeating": false,
+    "editorialSummary": {
+      "text": "spacious seating with outlets. more of study enviroment, not suited for chatting"
+    }
+  },
+  {
+    "name": "Spot Coffee & More",
+    "id": "spot-coffee",
+    "nationalPhoneNumber": "(213) 332-5913",
+    "formattedAddress": "3324 W 6th St, Los Angeles, CA 90020, USA",
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=9588789063132819908",
+    "websiteUri": "https://www.cafespotla.com/",
+    "userRatingCount": 210,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 12:00 PM – 2:00 AM",
+        "Tuesday: 12:00 PM – 2:00 AM",
+        "Wednesday: 12:00 PM – 2:00 AM",
+        "Thursday: 12:00 PM – 2:00 AM",
+        "Friday: 12:00 PM – 2:00 AM",
+        "Saturday: 12:00 PM – 2:00 AM",
+        "Sunday: 12:00 PM – 2:00 AM"
+      ]
+    },
+    "outdoorSeating": true,
+    "parkingOptions": {
+      "paidParkingLot": true,
+      "paidStreetParking": true,
+      "valetParking": true
+    },
+    "editorialSummary": {
+      "text": "music a little bit of a club vibe without being overbearing. good dessert."
+    }
+  },
+  {
+    "name": "TPO Coffee",
+    "id": "tpo-coffee",
+    "nationalPhoneNumber": "(213) 322-2356",
+    "formattedAddress": "537 S Western Ave, Los Angeles, CA 90020, USA",
+    "rating": 4,
+    "googleMapsUri": "https://maps.google.com/?cid=4640258991298039773",
+    "userRatingCount": 83,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: 10:00 AM – 2:00 AM",
+        "Tuesday: 10:00 AM – 2:00 AM",
+        "Wednesday: 10:00 AM – 2:00 AM",
+        "Thursday: 10:00 AM – 4:00 AM",
+        "Friday: 10:00 AM – 4:00 AM",
+        "Saturday: 10:00 AM – 4:00 AM",
+        "Sunday: 10:00 AM – 2:00 AM"
+      ]
+    },
+    "outdoorSeating": false,
+    "parkingOptions": {
+      "valetParking": true
+    },
+    "editorialSummary": {
+      "text": "a delightful spot for late-night coffee and desserts. loud music."
+    }
+  },
+  {
+    "name": "Yeems Coffee",
+    "id": "yeems",
+    "nationalPhoneNumber": "(213) 529-4069",
+    "formattedAddress": "3033 W 6th St #107, Los Angeles, CA 90020, USA",
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=254723966818584949",
+    "websiteUri": "http://www.yeemscoffee.com/",
+    "userRatingCount": 123,
+    "currentOpeningHours": {
+      "weekdayDescriptions": [
+        "Monday: Closed",
+        "Tuesday: 7:30 AM – 6:00 PM",
+        "Wednesday: 7:30 AM – 6:00 PM",
+        "Thursday: 7:30 AM – 6:00 PM",
+        "Friday: 7:30 AM – 6:00 PM",
+        "Saturday: 7:30 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ]
+    },
+    "parkingOptions": {
+      "freeParkingLot": true
+    },
+    "editorialSummary": {
+      "text": "this coffee shop is tiny so it is more like a grab and go coffee shop. "
+    }
+  }
+]

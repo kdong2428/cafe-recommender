@@ -1,0 +1,21 @@
+{
+  "id": "ChIJRfhnd8S5woARu5PMA7fyVwQ",
+  "nationalPhoneNumber": "(213) 674-7776",
+  "formattedAddress": "621 S Western Ave #101, Los Angeles, CA 90005, USA",
+  "rating": 4.5,
+  "googleMapsUri": "https://maps.google.com/?cid=312985566982214587",
+  "userRatingCount": 81,
+  "displayName": { "text": "I Coffee Bar", "languageCode": "en" },
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
+    ]
+  },
+  "outdoorSeating": true
+}

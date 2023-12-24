@@ -1,1 +1,27 @@
-{"id":"ChIJGS22BPu5woARFx0PZQ0XDfE","nationalPhoneNumber":"(213) 277-1701","formattedAddress":"3510 W 8th St, Los Angeles, CA 90005, USA","rating":4.5,"googleMapsUri":"https://maps.google.com/?cid=17369564684135374103","websiteUri":"https://instagram.com/damoteahousela?igshid=MzRlODBiNWFlZA==","userRatingCount":86,"displayName":{"text":"DAMO","languageCode":"en"},"currentOpeningHours":{"openNow":false,"periods":[{"open":{"day":0,"hour":8,"minute":0,"date":{"year":2023,"month":12,"day":24}},"close":{"day":0,"hour":19,"minute":0,"date":{"year":2023,"month":12,"day":24}}},{"open":{"day":1,"hour":8,"minute":0,"date":{"year":2023,"month":12,"day":25}},"close":{"day":1,"hour":19,"minute":0,"date":{"year":2023,"month":12,"day":25}}},{"open":{"day":2,"hour":8,"minute":0,"date":{"year":2023,"month":12,"day":26}},"close":{"day":2,"hour":19,"minute":0,"date":{"year":2023,"month":12,"day":26}}},{"open":{"day":3,"hour":8,"minute":0,"date":{"year":2023,"month":12,"day":20}},"close":{"day":3,"hour":19,"minute":0,"date":{"year":2023,"month":12,"day":20}}},{"open":{"day":4,"hour":8,"minute":0,"date":{"year":2023,"month":12,"day":21}},"close":{"day":4,"hour":19,"minute":0,"date":{"year":2023,"month":12,"day":21}}},{"open":{"day":5,"hour":8,"minute":0,"date":{"year":2023,"month":12,"day":22}},"close":{"day":5,"hour":19,"minute":0,"date":{"year":2023,"month":12,"day":22}}},{"open":{"day":6,"hour":8,"minute":0,"date":{"year":2023,"month":12,"day":23}},"close":{"day":6,"hour":19,"minute":0,"date":{"year":2023,"month":12,"day":23}}}],"weekdayDescriptions":["Monday: 8:00 AM – 7:00 PM","Tuesday: 8:00 AM – 7:00 PM","Wednesday: 8:00 AM – 7:00 PM","Thursday: 8:00 AM – 7:00 PM","Friday: 8:00 AM – 7:00 PM","Saturday: 8:00 AM – 7:00 PM","Sunday: 8:00 AM – 7:00 PM"]},"outdoorSeating":false,"parkingOptions":{"freeParkingLot":true}}
+{
+  "name": "DAMO",
+  "id": "damo",
+  "nationalPhoneNumber": "(213) 277-1701",
+  "formattedAddress": "3510 W 8th St, Los Angeles, CA 90005, USA",
+  "rating": 4.5,
+  "googleMapsUri": "https://maps.google.com/?cid=17369564684135374103",
+  "websiteUri": "https://instagram.com/damoteahousela?igshid=MzRlODBiNWFlZA==",
+  "userRatingCount": 86,
+  "displayName": { "text": "DAMO", "languageCode": "en" },
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM – 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: 8:00 AM – 7:00 PM"
+    ]
+  },
+  "outdoorSeating": false,
+  "parkingOptions": { "freeParkingLot": true },
+  "editorialSummary": {
+    "text": "small and cute and clean aesthetic. not enough seats and plugs to do work in."
+  }
+}

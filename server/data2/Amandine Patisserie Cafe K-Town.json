@@ -1,0 +1,30 @@
+{
+  "id": "ChIJ3-g8oIC4woARwe83pu7NGPI",
+  "nationalPhoneNumber": "(213) 568-3235",
+  "formattedAddress": "3121 W Olympic Blvd, Los Angeles, CA 90006, USA",
+  "rating": 4.4,
+  "googleMapsUri": "https://maps.google.com/?cid=17444919581494210497",
+  "websiteUri": "http://www.amandinepatisseriecafe.com/",
+  "userRatingCount": 495,
+  "displayName": {
+    "text": "Amandine Patisserie Cafe K-Town",
+    "languageCode": "en"
+  },
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: Closed",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 10:00 PM",
+      "Saturday: 6:00 AM – 10:00 PM",
+      "Sunday: 6:00 AM – 4:00 PM"
+    ],
+    "specialDays": [
+      { "date": { "year": 2023, "month": 12, "day": 24 } },
+      { "date": { "year": 2023, "month": 12, "day": 25 } }
+    ]
+  },
+  "outdoorSeating": false,
+  "parkingOptions": { "freeParkingLot": true }
+}

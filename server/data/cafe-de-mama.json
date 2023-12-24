@@ -1,0 +1,27 @@
+{
+  "name": "Cafe De Mama",
+  "id": "cafe-de-mama",
+  "nationalPhoneNumber": "(323) 795-0906",
+  "formattedAddress": "1102 S Western Ave, Los Angeles, CA 90006, USA",
+  "rating": 4.7,
+  "googleMapsUri": "https://maps.google.com/?cid=17797679888739859827",
+  "websiteUri": "https://www.cafedemama.com/",
+  "userRatingCount": 198,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 8:00 PM",
+      "Tuesday: 8:00 AM – 8:00 PM",
+      "Wednesday: 8:00 AM – 8:00 PM",
+      "Thursday: 8:00 AM – 8:00 PM",
+      "Friday: 8:00 AM – 8:00 PM",
+      "Saturday: 8:00 AM – 8:00 PM",
+      "Sunday: 8:00 AM – 8:00 PM"
+    ]
+  },
+  "editorialSummary": {
+    "text": "Basic coffee shop with outdoor seating serving mochi & matcha lattes, plus classic java & croffles.",
+    "languageCode": "en"
+  },
+  "outdoorSeating": true,
+  "parkingOptions": { "freeParkingLot": true }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Yeems Coffee",
+  "id": "yeems",
+  "nationalPhoneNumber": "(213) 529-4069",
+  "formattedAddress": "3033 W 6th St #107, Los Angeles, CA 90020, USA",
+  "rating": 4.8,
+  "googleMapsUri": "https://maps.google.com/?cid=254723966818584949",
+  "websiteUri": "http://www.yeemscoffee.com/",
+  "userRatingCount": 123,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: Closed",
+      "Tuesday: 7:30 AM – 6:00 PM",
+      "Wednesday: 7:30 AM – 6:00 PM",
+      "Thursday: 7:30 AM – 6:00 PM",
+      "Friday: 7:30 AM – 6:00 PM",
+      "Saturday: 7:30 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ]
+  },
+  "parkingOptions": { "freeParkingLot": true },
+  "editorialSummary": {
+    "text": "this coffee shop is tiny so it is more like a grab and go coffee shop. "
+  }
+
+}

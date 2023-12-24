@@ -1,0 +1,26 @@
+{
+  "name": "Alchemist Coffee Project at The Pearl",
+  "id": "alchemist-coffee",
+  "nationalPhoneNumber": "(213) 315-5700",
+  "formattedAddress": "687 S Hobart Blvd, Los Angeles, CA 90005, USA",
+  "rating": 4.6,
+  "googleMapsUri": "https://maps.google.com/?cid=5421323349998547545",
+  "userRatingCount": 182,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ]
+  },
+  "outdoorSeating": true,
+  "parkingOptions": { "paidStreetParking": true },
+  "editorialSummary": {
+    "text": "Sleek coffee-focused spot also offering baked goods & bulk beans out of a New Orleans-style cafe."
+  }
+  
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Cafe Mak",
+  "id": "cafe-mak",
+  "nationalPhoneNumber": "(213) 252-9898",
+  "formattedAddress": "612 Shatto Pl, Los Angeles, CA 90005, USA",
+  "rating": 4.3,
+  "googleMapsUri": "https://maps.google.com/?cid=11781226813360577209",
+  "websiteUri": "https://cafemak.eat24hour.com/location",
+  "userRatingCount": 654,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ]
+  },
+  "editorialSummary": {
+    "text": "Roomy Korean cafe serving coffees, teas & desserts (like sweet potato cake) with late-night hours."
+  },
+  "outdoorSeating": true,
+  "parkingOptions": {
+    "freeParkingLot": true,
+    "freeStreetParking": true,
+    "paidStreetParking": true
+  }
+}

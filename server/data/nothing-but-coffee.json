@@ -1,0 +1,25 @@
+{
+  "name": "nothing but coffee by ffee&Co",
+  "id": "nothing-but-coffee",
+  "nationalPhoneNumber": "(213) 375-7073",
+  "formattedAddress": "3952 Wilshire Blvd, Los Angeles, CA 90010, USA",
+  "rating": 4.6,
+  "googleMapsUri": "https://maps.google.com/?cid=4399448930006619190",
+  "websiteUri": "https://ffee2andco.wixsite.com/nothing-but-coffee",
+  "userRatingCount": 194,
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ]
+  },
+  "outdoorSeating": true,
+  "editorialSummary": {
+    "text": "Good place to hangout but there is only 3 seats that are good for work/studying."
+  }
+}

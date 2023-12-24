@@ -1,0 +1,26 @@
+{
+  "nationalPhoneNumber": "(213) 738-0909",
+  "formattedAddress": "610 Serrano Ave, Los Angeles, CA 90005, USA",
+  "rating": 4.1,
+  "googleMapsUri": "https://maps.google.com/?cid=13322844548527275357",
+  "websiteUri": "https://www.concertola.com/order-online",
+  "userRatingCount": 697,
+  "displayName": { "text": "Concerto", "languageCode": "en" },
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ]
+  },
+  "editorialSummary": {
+    "text": "Korean-Italian fare, gourmet coffee, cocktails & lavish desserts are featured at this buzzy  space.",
+    "languageCode": "en"
+  },
+  "outdoorSeating": true,
+  "parkingOptions": { "freeStreetParking": true }
+}

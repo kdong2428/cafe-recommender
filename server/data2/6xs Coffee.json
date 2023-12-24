@@ -1,0 +1,21 @@
+{
+  "nationalPhoneNumber": "(213) 660-1984",
+  "formattedAddress": "3907 W 6th St, Los Angeles, CA 90020, USA",
+  "rating": 4.7,
+  "googleMapsUri": "https://maps.google.com/?cid=7358548145213806852",
+  "websiteUri": "https://6xs-los-angeles-inc.square.site/",
+  "userRatingCount": 115,
+  "displayName": { "text": "6xs Coffee", "languageCode": "en" },
+  "currentOpeningHours": {
+    "weekdayDescriptions": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ]
+  },
+  "outdoorSeating": true
+}
