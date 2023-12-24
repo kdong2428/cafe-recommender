@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+
+html, body{
+  background-color: #ffff;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1{
+  color: #000;
+  font-size: 3rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+p{
+  color: #000;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#submitBtn{
+  background-color: #000;
+  border: 0px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  width: 100%;
+  font-weight: 500;
 }
 
-.App-link {
-  color: #61dafb;
+#submitBtn:hover{
+  opacity: 0.8;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.coffeeLogo{
+  font-size: 2em;
+  /* background-color: black; */
+  color: #000;
+  padding: 10px;
+  height: 40px;
+  border-radius: 50%;
+  width: 40px;
+  border: 2px solid;
 }
